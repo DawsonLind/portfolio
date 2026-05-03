@@ -2,6 +2,8 @@ const links = [
   { label: "Email", href: "mailto:dawson.lind@gmail.com", value: "dawson.lind@gmail.com" },
   { label: "LinkedIn", href: "https://www.linkedin.com/in/dawson-lind/", value: "in/dawson-lind" },
   { label: "GitHub", href: "https://github.com/DawsonLind", value: "DawsonLind" },
+  { label: "Instagram", href: "https://www.instagram.com/dawslind/", value: "@dawslind" },
+  { label: "SoundCloud", href: "https://soundcloud.com/purple_pools", value: "purple_pools" },
 ];
 
 export function Contact() {
