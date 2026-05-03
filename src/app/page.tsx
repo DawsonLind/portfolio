@@ -1,5 +1,6 @@
 import { About } from "@/components/About";
 import { Contact } from "@/components/Contact";
+import { FeedbackLoop } from "@/components/FeedbackLoop";
 import { Footer } from "@/components/Footer";
 import { Hero } from "@/components/Hero";
 import { Projects } from "@/components/Projects";
@@ -14,6 +15,7 @@ export default function Home() {
       <Projects />
       <Contact />
       <Footer />
+      <FeedbackLoop />
     </main>
   );
 }
